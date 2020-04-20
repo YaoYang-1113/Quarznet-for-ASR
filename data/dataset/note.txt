@@ -1,1 +1,4 @@
-dsd
+http://www.openslr.org/12/
+
+train: train-clean-100
+test: test-clean
